@@ -1,0 +1,6 @@
+package utils;
+
+public class Jsonfile {
+	public static String json = "{\"host\":\"https://cbusearch.oss-cn-shanghai.aliyuncs.com\",\"policy\":\"eyJleHBpcmF0aW9uIjoiMjAyMC0xMC0wM1QwMDozNjoyMS41MzRaIiwiY29uZGl0aW9ucyI6W1siY29udGVudC1sZW5ndGgtcmFuZ2UiLDAsMTA0ODU3NjAwMF1dfQ==\",\"expire\":\"1601685381\",\"accessid\":\"LTAIltWGJ0iXyZ4r\",\"enable\":true,\"signature\":\"HgKYDx9hkLpQVsPqBVKpVsUoOR4=\"}";
+	public static String cookie = "_samesite_flag_=true; unb=1680549126; uc1=cookie16=UIHiLt3xCS3yM2h4eKHS9lpEOw%3D%3D&cookie21=VFC%2FuZ9ajC0YedpiVNvreA%3D%3D&existShop=true&cookie14=Uoe0b0C9tCFG5A%3D%3D&cookie15=V32FPkk%2Fw0dUvg%3D%3D&pas=0; uc3=id2=Uoe8iq7AMQYr9w%3D%3D&vt3=F8dCufHAtYLsoiKxVb4%3D&lg2=URm48syIIVrSKA%3D%3D&nk2=EuRW4ijvt3EzFqo%3D; csg=9c445916; lgc=qq420443292; t=64191c5e881d664345fbc6b6f727db53; cookie17=Uoe8iq7AMQYr9w%3D%3D; sgcookie=E100OjfoNXZ82vfF0CAsgbuTWfK5jUDyfHzRkSGKXNOAlzrEg%2FOE17k0UmxVs8UcyEF3seC9smgSLi04m6gp%2BU%2BIuw%3D%3D; dnk=qq420443292; skt=32569bd0b250be88; cookie2=1e29c2bc8a1f60e23d4c08393d9d539d; existShop=MTYwMjUzMTk2OQ%3D%3D; uc4=nk4=0%40EJv1iv2d1lVgnhBc5HAxhs0E%2BZi50Q%3D%3D&id4=0%40UO%2B6bNeDfyBRdijL1kTvmXzCzqlW; tracknick=qq420443292; _cc_=UIHiLt3xSw%3D%3D; _l_g_=Ug%3D%3D; sg=267; _nk_=qq420443292; cookie1=Vqt4wTL0bvXhUv6zXb2%2BKhH3c3sMXtMv3s26xzUFbH8%3D; _tb_token_=f358d583aee57";
+}
