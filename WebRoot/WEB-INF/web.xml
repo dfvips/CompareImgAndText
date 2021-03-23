@@ -6,47 +6,12 @@
     <servlet-name>simnet</servlet-name>
     <servlet-class>servlet.simnet</servlet-class>
   </servlet>
-  <servlet>
-    <servlet-name>oss</servlet-name>
-    <servlet-class>servlet.oss</servlet-class>
-  </servlet>
-  <servlet>
-    <servlet-name>tboss</servlet-name>
-    <servlet-class>servlet.tboss</servlet-class>
-  </servlet>
-  <servlet>
-    <servlet-name>addCookie</servlet-name>
-    <servlet-class>servlet.addCookie</servlet-class>
-  </servlet>
-  <servlet>
-    <servlet-name>pddoss</servlet-name>
-    <servlet-class>servlet.pddoss</servlet-class>
-  </servlet>
-
-
-
-
-
+	
   <servlet-mapping>
     <servlet-name>simnet</servlet-name>
     <url-pattern>/simnet</url-pattern>
   </servlet-mapping>
-  <servlet-mapping>
-    <servlet-name>oss</servlet-name>
-    <url-pattern>/oss</url-pattern>
-  </servlet-mapping>
-  <servlet-mapping>
-    <servlet-name>tboss</servlet-name>
-    <url-pattern>/tboss</url-pattern>
-  </servlet-mapping>
-  <servlet-mapping>
-    <servlet-name>addCookie</servlet-name>
-    <url-pattern>/tboss/addCookie</url-pattern>
-  </servlet-mapping>
-  <servlet-mapping>
-    <servlet-name>pddoss</servlet-name>
-    <url-pattern>/pddoss</url-pattern>
-  </servlet-mapping>
+  
 	<welcome-file-list>
 		<welcome-file>index.html</welcome-file>
 		<welcome-file>index.htm</welcome-file>
